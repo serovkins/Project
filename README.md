@@ -1,2 +1,2 @@
 # Project
-Project for python. Historical-geography telegram bot
+Project on python. Historical-geography telegram bot
